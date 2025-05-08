@@ -1,0 +1,14 @@
+transformers
+datasets
+evaluate
+sentence-transformers
+scikit-learn
+pandas
+matplotlib
+nltk
+umap-learn
+peft
+bitsandbytes
+huggingface_hub
+accelerate
+rouge_score
