@@ -1,8 +1,8 @@
-# 🧪 Methodology
+# Methodology
 
 ## 1. Data Collection & Cleaning
 
-- Sources: Lithuanian news portals (e.g., lrt.lt)
+- Sources: Lithuanian news portals (e.g., 15min.lt)
 - Text preprocessing: lowercase, lemmatization, stop word removal
 - Fields: title, content, GPT-generated summaries
 
