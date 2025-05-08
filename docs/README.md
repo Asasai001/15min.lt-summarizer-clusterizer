@@ -18,3 +18,6 @@ This project presents an end-to-end NLP pipeline for Lithuanian news summarizati
 - `agglomerative_clustering.ipynb` – semantic clustering
 - `kmeans_clustering.ipynb` – benchmark clustering
 
+##Hugging Face
+Final mBART fine tuned model can be found on hugging face Arnold001/mbart-lt-summary-phase5
+
